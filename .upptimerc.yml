@@ -1,27 +1,21 @@
-# Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: formspark
+repo: status
 
-# Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: formspark.io
+    url: https://formspark.io
+  - name: backend.formspark.io
+    url: https://backend.formspark.io
+  - name: dashboard.formspark.io
+    url: https://dashboard.formspark.io
+  - name: documentation.formspark.io
+    url: https://documentation.formspark.io
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  cname: status.formspark.io
+  logoUrl: https://cdn.formspark.io/images/formspark/logos/formspark.svg
+  name: Formspark
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
@@ -29,6 +23,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
