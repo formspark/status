@@ -5,7 +5,7 @@
     "slug": "formspark-io",
     "status": "up",
     "uptime": "100.00%",
-    "time": 220
+    "time": 187
   },
   {
     "name": "backend.formspark.io",
@@ -13,7 +13,7 @@
     "slug": "backend-formspark-io",
     "status": "up",
     "uptime": "100.00%",
-    "time": 437
+    "time": 361
   },
   {
     "name": "dashboard.formspark.io",
@@ -21,7 +21,7 @@
     "slug": "dashboard-formspark-io",
     "status": "up",
     "uptime": "100.00%",
-    "time": 219
+    "time": 169
   },
   {
     "name": "documentation.formspark.io",
@@ -29,6 +29,6 @@
     "slug": "documentation-formspark-io",
     "status": "up",
     "uptime": "100.00%",
-    "time": 145
+    "time": 120
   }
 ]
