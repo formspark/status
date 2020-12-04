@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 182,
-    "timeWeek": 168,
-    "timeMonth": 170,
-    "timeYear": 170
+    "time": 171,
+    "timeDay": 188,
+    "timeWeek": 176,
+    "timeMonth": 171,
+    "timeYear": 171
   },
   {
     "name": "backend.formspark.io",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 451,
-    "timeWeek": 442,
-    "timeMonth": 436,
-    "timeYear": 436
+    "time": 428,
+    "timeDay": 331,
+    "timeWeek": 396,
+    "timeMonth": 428,
+    "timeYear": 428
   },
   {
     "name": "dashboard.formspark.io",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 184,
-    "timeWeek": 156,
-    "timeMonth": 155,
-    "timeYear": 155
+    "time": 151,
+    "timeDay": 99,
+    "timeWeek": 154,
+    "timeMonth": 151,
+    "timeYear": 151
   },
   {
     "name": "documentation.formspark.io",
@@ -57,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 125,
-    "timeDay": 140,
-    "timeWeek": 123,
-    "timeMonth": 125,
-    "timeYear": 125
+    "time": 123,
+    "timeDay": 99,
+    "timeWeek": 120,
+    "timeMonth": 123,
+    "timeYear": 123
   }
 ]
