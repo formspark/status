@@ -8,6 +8,8 @@ sites:
     url: https://backend.formspark.io
   - name: dashboard.formspark.io
     url: https://dashboard.formspark.io
+  - name: submitted.formspark.io
+    url: https://submitted.formspark.io
   - name: documentation.formspark.io
     url: https://documentation.formspark.io
 
