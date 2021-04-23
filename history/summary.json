@@ -22,19 +22,19 @@
     "url": "https://backend.formspark.io",
     "icon": "https://favicons.githubusercontent.com/backend.formspark.io",
     "slug": "backend-formspark-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 475,
-    "timeDay": 268,
-    "timeWeek": 384,
-    "timeMonth": 514,
-    "timeYear": 475,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
+    "time": 476,
+    "timeDay": 400,
+    "timeWeek": 415,
+    "timeMonth": 519,
+    "timeYear": 476,
     "dailyMinutesDown": {
-      "2021-04-23": 0
+      "2021-04-23": 49
     }
   },
   {
