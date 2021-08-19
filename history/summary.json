@@ -42,19 +42,19 @@
     "url": "https://dashboard.formspark.io",
     "icon": "https://favicons.githubusercontent.com/dashboard.formspark.io",
     "slug": "dashboard-formspark-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 75,
-    "timeWeek": 147,
-    "timeMonth": 151,
+    "timeDay": 100,
+    "timeWeek": 145,
+    "timeMonth": 150,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2021-08-19": 0
+      "2021-08-19": 6
     }
   },
   {
