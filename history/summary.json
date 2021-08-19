@@ -60,19 +60,19 @@
     "url": "https://submitted.formspark.io",
     "icon": "https://favicons.githubusercontent.com/submitted.formspark.io",
     "slug": "submitted-formspark-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 80,
-    "timeWeek": 157,
-    "timeMonth": 146,
+    "timeDay": 92,
+    "timeWeek": 150,
+    "timeMonth": 145,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2021-08-19": 0
+      "2021-08-19": 7
     }
   },
   {
