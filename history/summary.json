@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 72,
-    "timeWeek": 166,
-    "timeMonth": 192,
+    "timeDay": 65,
+    "timeWeek": 136,
+    "timeMonth": 189,
     "timeYear": 210,
     "dailyMinutesDown": {}
   },
@@ -23,21 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/backend.formspark.io",
     "slug": "backend-formspark-io",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
-    "time": 505,
-    "timeDay": 211,
-    "timeWeek": 603,
-    "timeMonth": 546,
-    "timeYear": 505,
-    "dailyMinutesDown": {
-      "2021-09-28": 671,
-      "2021-09-27": 320,
-      "2021-04-23": 49
-    }
+    "uptimeYear": "100.00%",
+    "time": 504,
+    "timeDay": 192,
+    "timeWeek": 445,
+    "timeMonth": 529,
+    "timeYear": 504,
+    "dailyMinutesDown": {}
   },
   {
     "name": "dashboard.formspark.io",
@@ -51,13 +47,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 92,
-    "timeWeek": 137,
-    "timeMonth": 156,
+    "timeDay": 192,
+    "timeWeek": 147,
+    "timeMonth": 158,
     "timeYear": 177,
-    "dailyMinutesDown": {
-      "2021-08-19": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "submitted.formspark.io",
@@ -71,13 +65,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 77,
-    "timeWeek": 166,
-    "timeMonth": 201,
+    "timeDay": 81,
+    "timeWeek": 158,
+    "timeMonth": 200,
     "timeYear": 168,
-    "dailyMinutesDown": {
-      "2021-08-19": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "documentation.formspark.io",
@@ -90,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 86,
-    "timeWeek": 93,
-    "timeMonth": 160,
-    "timeYear": 178,
+    "time": 177,
+    "timeDay": 87,
+    "timeWeek": 84,
+    "timeMonth": 158,
+    "timeYear": 177,
     "dailyMinutesDown": {}
   }
 ]
