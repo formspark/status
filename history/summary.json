@@ -4,19 +4,19 @@
     "url": "https://formspark.io",
     "icon": "https://favicons.githubusercontent.com/formspark.io",
     "slug": "formspark-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 101,
-    "timeWeek": 94,
-    "timeMonth": 140,
-    "timeYear": 184,
+    "timeDay": 85,
+    "timeWeek": 91,
+    "timeMonth": 138,
+    "timeYear": 183,
     "dailyMinutesDown": {
-      "2022-01-24": 0
+      "2022-01-24": 6
     }
   },
   {
