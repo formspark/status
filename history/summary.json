@@ -4,10 +4,10 @@
     "url": "https://formspark.io",
     "icon": "https://favicons.githubusercontent.com/formspark.io",
     "slug": "formspark-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
@@ -15,16 +15,18 @@
     "timeWeek": 181,
     "timeMonth": 184,
     "timeYear": 159,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-07": 1
+    }
   },
   {
     "name": "backend.formspark.io",
     "url": "https://backend.formspark.io",
     "icon": "https://favicons.githubusercontent.com/backend.formspark.io",
     "slug": "backend-formspark-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 509,
     "timeMonth": 509,
     "timeYear": 506,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-07": 0
+    }
   },
   {
     "name": "dashboard.formspark.io",
