@@ -22,18 +22,20 @@
     "url": "https://backend.formspark.io",
     "icon": "https://icons.duckduckgo.com/ip3/backend.formspark.io.ico",
     "slug": "backend-formspark-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 462,
-    "timeDay": 351,
-    "timeWeek": 495,
-    "timeMonth": 507,
-    "timeYear": 476,
-    "dailyMinutesDown": {}
+    "timeDay": 263,
+    "timeWeek": 455,
+    "timeMonth": 497,
+    "timeYear": 475,
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   },
   {
     "name": "dashboard.formspark.io",
