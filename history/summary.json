@@ -4,19 +4,19 @@
     "url": "https://formspark.io",
     "icon": "https://icons.duckduckgo.com/ip3/formspark.io.ico",
     "slug": "formspark-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 207,
-    "timeWeek": 210,
-    "timeMonth": 207,
-    "timeYear": 236,
+    "timeDay": 297,
+    "timeWeek": 232,
+    "timeMonth": 212,
+    "timeYear": 237,
     "dailyMinutesDown": {
-      "2025-11-01": 0
+      "2025-11-01": 15
     }
   },
   {
