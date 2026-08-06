@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 213,
     "timeDay": 178,
-    "timeWeek": 168,
+    "timeWeek": 173,
     "timeMonth": 183,
     "timeYear": 201,
     "dailyMinutesDown": {}
@@ -22,19 +22,19 @@
     "url": "https://backend.formspark.io",
     "icon": "https://icons.duckduckgo.com/ip3/backend.formspark.io.ico",
     "slug": "backend-formspark-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 523,
-    "timeDay": 258,
-    "timeWeek": 358,
-    "timeMonth": 445,
-    "timeYear": 531,
+    "timeDay": 264,
+    "timeWeek": 337,
+    "timeMonth": 440,
+    "timeYear": 530,
     "dailyMinutesDown": {
-      "2026-08-06": 0
+      "2026-08-06": 3
     }
   },
   {
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 239,
     "timeDay": 397,
-    "timeWeek": 227,
+    "timeWeek": 230,
     "timeMonth": 242,
     "timeYear": 237,
     "dailyMinutesDown": {}
@@ -68,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 211,
     "timeDay": 311,
-    "timeWeek": 262,
+    "timeWeek": 284,
     "timeMonth": 255,
     "timeYear": 210,
     "dailyMinutesDown": {}
@@ -86,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 220,
     "timeDay": 298,
-    "timeWeek": 255,
+    "timeWeek": 245,
     "timeMonth": 235,
     "timeYear": 223,
     "dailyMinutesDown": {}
